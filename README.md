@@ -61,8 +61,6 @@ Bottom View
 <img width="2000px" align="center" alt="Rendered Design 1" src="Hardware/Circuit Design/Rendered Image/1.png">
 <img width="2000px" align="center" alt="Rendered Design 2" src="Hardware/Circuit Design/Rendered Image/2.png">
 <img width="2000px" align="center" alt="Rendered Design 3" src="Hardware/Circuit Design/Rendered Image/3.png">
-<img width="2000px" align="center" alt="Rendered Design 4" src="Hardware/Circuit Design/Rendered Image/4.png">
-<img width="2000px" align="center" alt="Rendered Design 5" src="Hardware/Circuit Design/Rendered Image/5.png">
 </center>
 
 ## Tools Used
